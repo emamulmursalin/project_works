@@ -1,5 +1,5 @@
-"""In this script we are going to clean a messy dataset which contains the 
-    amount of coal consumptions of each countreis from 1980. """
+# In this script we are going to clean a messy dataset which contains the 
+# amount of coal consumption of each countries from 1980. 
 
 #Lets import the libraries
 library(tidyverse)
